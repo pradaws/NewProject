@@ -1,0 +1,61 @@
+2023-11-22 14:34:05,237 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-22 14:34:07,352 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-22 14:34:10,214 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-22 14:34:10,230 [main] INFO TestCases.LoginTest_001 - testcase is failed
+2023-11-22 23:10:53,517 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-22 23:10:55,624 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-22 23:10:59,183 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-22 23:10:59,189 [main] INFO TestCases.LoginTest_001 - testcase is failed
+2023-11-23 00:25:59,898 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-23 00:26:01,982 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-23 00:26:04,774 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-23 00:26:04,783 [main] INFO TestCases.LoginTest_001 - testcase is failed
+2023-11-26 19:55:31,183 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 19:55:33,290 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 19:55:36,524 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 20:02:16,745 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 20:02:18,850 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 20:02:21,996 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 20:02:22,286 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 20:05:11,729 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 20:05:13,831 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 20:05:17,169 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 20:05:17,520 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 20:10:28,542 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 20:10:30,624 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 20:10:33,752 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 20:10:34,079 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 20:12:58,505 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 20:13:00,577 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 20:13:03,459 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 20:13:03,797 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 22:30:17,878 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 22:30:19,970 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 22:30:23,218 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 22:30:23,572 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 22:30:41,019 [main] INFO TestCases.TC_Register_002 - Link completed
+2023-11-26 22:30:41,136 [main] INFO TestCases.TC_Register_002 - Username entered in register page
+2023-11-26 22:30:41,204 [main] INFO TestCases.TC_Register_002 - Password entered in register page
+2023-11-26 22:30:41,272 [main] INFO TestCases.TC_Register_002 - Confirm password entered in register page
+2023-11-26 22:30:41,355 [main] INFO TestCases.TC_Register_002 - Full name entered in register page
+2023-11-26 22:30:41,463 [main] INFO TestCases.TC_Register_002 - email-id entered in register page
+2023-11-26 22:32:17,219 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-26 22:32:19,321 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-26 22:32:24,346 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-26 22:32:24,663 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-26 22:32:36,383 [main] INFO TestCases.TC_Register_002 - Link completed
+2023-11-26 22:32:36,501 [main] INFO TestCases.TC_Register_002 - Username entered in register page
+2023-11-26 22:32:36,579 [main] INFO TestCases.TC_Register_002 - Password entered in register page
+2023-11-26 22:32:36,660 [main] INFO TestCases.TC_Register_002 - Confirm password entered in register page
+2023-11-26 22:32:36,740 [main] INFO TestCases.TC_Register_002 - Full name entered in register page
+2023-11-26 22:32:36,843 [main] INFO TestCases.TC_Register_002 - email-id entered in register page
+2023-11-27 14:18:36,449 [main] INFO TestCases.LoginTest_001 - username is enetered
+2023-11-27 14:18:38,715 [main] INFO TestCases.LoginTest_001 - password is enetered
+2023-11-27 14:18:41,916 [main] INFO TestCases.LoginTest_001 - user is succefully logging inito the account
+2023-11-27 14:18:42,481 [main] INFO TestCases.LoginTest_001 - Screenshot is taken
+2023-11-27 14:18:54,199 [main] INFO TestCases.TC_Register_002 - Link completed
+2023-11-27 14:18:54,481 [main] INFO TestCases.TC_Register_002 - Username entered in register page
+2023-11-27 14:18:54,784 [main] INFO TestCases.TC_Register_002 - Password entered in register page
+2023-11-27 14:18:55,010 [main] INFO TestCases.TC_Register_002 - Confirm password entered in register page
+2023-11-27 14:18:55,252 [main] INFO TestCases.TC_Register_002 - Full name entered in register page
+2023-11-27 14:18:55,635 [main] INFO TestCases.TC_Register_002 - email-id entered in register page
