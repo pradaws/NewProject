@@ -18,6 +18,11 @@ public class sample_001 {
 		
 	}
 	
+	public void mult()
+	{
+		System.out.println(a*b);
+	}
+	
 
 	
 }
